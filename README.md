@@ -1,6 +1,6 @@
-# OpnWire Docker
+# OpnWire
 
-A Docker container application that automatically configures and maintains a Private Internet Access (PIA) WireGuard VPN connection through OPNsense firewall with dynamic port forwarding for qBittorrent.
+An application that automatically configures and maintains a Private Internet Access (PIA) WireGuard VPN connection through OPNsense firewall with dynamic port forwarding for qBittorrent. Includes a dockerfile to turn it into a container.
 
 ## Overview
 
